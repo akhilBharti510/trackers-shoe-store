@@ -5,11 +5,6 @@ This project showcases a stylish storefront for sneakers (Jordan collection) wit
 
 🌐 **Live Demo:** [Trackers Shoe Store](https://akhilbharti510.github.io/trackers-shoe-store/)
 
----
-
-## 📸 Preview
-
-![Trackers Shoe Store Screenshot](https://ninjasfiles.s3.amazonaws.com/asset_0000000000003459_1717090194_jordan.jpg)
 
 ---
 
